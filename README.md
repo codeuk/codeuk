@@ -9,7 +9,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=expIoits&repo=discord-ddos-bot&show_icons=true&theme=radical)](https://github.com/expIoits/discord-ddos-bot)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=expIoits&repo=discord-webhook-spammer&show_icons=true&theme=radical)](https://github.com/expIoits/discord-webhook-spammer)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=expIoits&repo=chrome-data-grabber&show_icons=true&theme=radical)](https://github.com/expIoits/chrome-data-grabber)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=expIoits&repo=9spy&show_icons=true&theme=radical)](https://github.com/expIoits/9spy)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=expIoits&repo=discord-bot-rat&show_icons=true&theme=radical)](https://github.com/expIoits/discord-bot-rat)
 
 **Finally, here are my nooby stats:**
 
