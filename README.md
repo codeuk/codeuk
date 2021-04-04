@@ -11,7 +11,7 @@
 
 **Finally, here are my nooby stats:**
 
-[![Doops GitHub stats](https://github-readme-stats.vercel.app/api?username=expIoits&show_icons=true&theme=radical)](https://github.com/expIoits/discord-ddos-bot)
+[![Doops GitHub stats](https://github-readme-stats.vercel.app/api?username=expIoits&theme=radical)](https://github.com/expIoits/discord-ddos-bot)
 
 
 
