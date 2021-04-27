@@ -11,6 +11,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=u6m&repo=chrome-data-grabber&show_icons=true&theme=radical)](https://github.com/u6m/chrome-data-grabber)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=u6m&repo=discord-bot-rat&show_icons=true&theme=radical)](https://github.com/u6m/discord-bot-rat)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=u6m&repo=discolog&show_icons=true&theme=radical)](https://github.com/u6m/discolog)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=u6m&repo=gitcheck&show_icons=true&theme=radical)](https://github.com/u6m/gitcheck)
 
 **Finally, here are my nooby stats:**
 
