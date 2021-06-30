@@ -10,7 +10,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7uk&repo=gitcheck&show_icons=true&theme=radical)](https://github.com/7uk/gitcheck)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7uk&repo=discord-webhook-spammer&show_icons=true&theme=radical)](https://github.com/7uk/discord-webhook-spammer)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7uk&repo=chrome-data-grabber&show_icons=true&theme=radical)](https://github.com/7uk/chrome-data-grabber)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7uk&repo=discord-bot-rat&show_icons=true&theme=radical)](https://github.com/7uk/discord-bot-rat)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7uk&repo=discord-rpc&show_icons=true&theme=radical)](https://github.com/7uk/discord-rpc)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7uk&repo=discolog&show_icons=true&theme=radical)](https://github.com/7uk/discolog)
 
 **Finally, here are my nooby stats:**
