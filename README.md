@@ -9,7 +9,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7uk&repo=osuggs&show_icons=true&theme=radical)](https://github.com/7uk/osuggs)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7uk&repo=gitcheck&show_icons=true&theme=radical)](https://github.com/7uk/gitcheck)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7uk&repo=discord-rpc&show_icons=true&theme=radical)](https://github.com/7uk/discord-rpc)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7uk&repo=discolog&show_icons=true&theme=radical)](https://github.com/7uk/discolog)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7uk&repo=pycrypter&show_icons=true&theme=radical)](https://github.com/7uk/pycrypter)
 
 **Finally, here are my nooby stats:**
 
