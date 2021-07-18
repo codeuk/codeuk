@@ -1,10 +1,10 @@
 ## What's up! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-*Star my shit loser*
+**Star my shit loser**
 
 **Here are some of my projects:**  *(I like using discord)*
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7uk&repo=WebSPAM&show_icons=true&theme=radical)](https://github.com/7uk/webSPAM)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7uk&repo=WebSPAM&show_icons=true&theme=radical)](https://github.com/7uk/WebSPAM)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7uk&repo=GitCheck&show_icons=true&theme=radical)](https://github.com/7uk/GitCheck)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7uk&repo=DiscoRPC&show_icons=true&theme=radical)](https://github.com/7uk/DiscoRPC)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7uk&repo=PyCrypter&show_icons=true&theme=radical)](https://github.com/7uk/PyCrypter)
