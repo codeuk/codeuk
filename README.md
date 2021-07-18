@@ -4,7 +4,7 @@
 
 **Here are some of my projects:**  *(I like using discord)*
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7uk&repo=WebSPAM&show_icons=true&theme=radical)](https://github.com/7uk/WebSPAM)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7uk&repo=DGC&show_icons=true&theme=radical)](https://github.com/7uk/DGC)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7uk&repo=GitCheck&show_icons=true&theme=radical)](https://github.com/7uk/GitCheck)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7uk&repo=DiscoRPC&show_icons=true&theme=radical)](https://github.com/7uk/DiscoRPC)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7uk&repo=PyCrypter&show_icons=true&theme=radical)](https://github.com/7uk/PyCrypter)
