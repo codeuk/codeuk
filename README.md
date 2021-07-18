@@ -7,7 +7,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7uk&repo=DGC&show_icons=true&theme=radical)](https://github.com/7uk/DGC)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7uk&repo=DiscoRPC&show_icons=true&theme=radical)](https://github.com/7uk/DiscoRPC)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7uk&repo=GitCheck&show_icons=true&theme=radical)](https://github.com/7uk/GitCheck)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7uk&repo=PyCrypter&show_icons=true&theme=radical)](https://github.com/7uk/PyCrypter)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=7uk&repo=GrabJS&show_icons=true&theme=radical)](https://github.com/7uk/GrabJS)
 
 **Github Stats:**
 
