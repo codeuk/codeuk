@@ -1,6 +1,4 @@
-**Discord: doop#0001**
-
-**Group: KEKWS**
+**Discord: doop#0001  |  Group: kekws**
 
 
 
