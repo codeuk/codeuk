@@ -1,6 +1,1 @@
-**Discord:   doop#0001**
-
-**Group:     kekws**
-
-
-
+sigh-bur sec cert doopy
