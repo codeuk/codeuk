@@ -1,7 +1,7 @@
 # **Hello I'm doop aka @codeuk**
 
 [![](https://img.shields.io/badge/-@codeuk-%23181717?style=flat-square&logo=github)](https://github.com/codeuk)
-[![](https://img.shields.io/SITE?color=0ab9e6&style=flat-square&up_message=doopfun&url=https%3A%2F%2Fdoop.fun)](https://doop.fun)
+[![](https://img.shields.io/badge/Website-doop.fun-black)](https://doop.fun)
 
 :computer: Shit & public programs go on this Github, don't take anything seriously (still don't steal my shit).
 
@@ -16,7 +16,7 @@
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 
-## 𝗦𝘁𝗮𝘁𝘀
+## Stats
 
 ![codeuk's github stats](https://github-readme-stats.vercel.app/api?username=codeuk&show_icons=true&theme=dracula)
 
