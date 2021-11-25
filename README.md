@@ -5,7 +5,7 @@
 
 :computer: Bad programs go on this Github, don't take anything seriously (still don't steal my stuff :D).
 
-💡 What I'm currently working on: **TrollWare: The most advanced Discord Malware & RAT**
+💡 What I'm currently working on: **TrollWare: The most advanced Discord Malware & RAT** [1.4K LINES]
 
 ## Stats
 
