@@ -7,16 +7,6 @@
 
 💡 What I'm currently working on: **TrollWare: The most advanced Discord Malware & RAT**
 
-## Languages & Programs
-
-![PY](https://img.shields.io/badge/PY-Python-yellow)
-![JS](https://img.shields.io/badge/JS-JavaScript-orange)
-![HTML](https://img.shields.io/badge/HTML-HTML5-blue)
-![CSS](https://img.shields.io/badge/CSS-CSS3-green)
-
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
-
 ## Stats
 
 ![codeuk's github stats](https://github-readme-stats.vercel.app/api?username=codeuk&show_icons=true&theme=dracula)
