@@ -12,7 +12,7 @@
 
 🌟 What I'm interested in: 
  - **Malware and RAT's**
- - **Discord Tools**
+ - **Discord Tools** *(Specifically d.py)*
  - **Exploiting**
 
 
