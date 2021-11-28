@@ -6,7 +6,7 @@
 [![](https://img.shields.io/badge/Enquiry%20Email-malware@doop.fun-black)](mailto:malware@doop.fun)
 
 💡 What I'm currently working on: 
- - **TrollWare: The most advanced Discord Malware & RAT** *[currently 1.4k lines]*
+ - **TrollWare: The most advanced Discord Malware & RAT** *1.4k lines*
  - **XSS Tools and Scripts (Learning more JS)**
  - **Remote Access Tools with C#**
 
