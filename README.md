@@ -6,13 +6,12 @@
 [![](https://img.shields.io/badge/Enquiry%20Email-malware@doop.fun-black)](mailto:malware@doop.fun)
 
 💡 What I'm currently working on: 
- - **TrollWare: The most advanced Discord Malware & RAT** *1.4K Lines*
- - **XSS Tools and Scripts (Learning more JS)**
- - **Remote Access Tools with C#**
+ - **9SPY - Windows RAT in Python Sockets**
+ - **Front End Scripting and Databases**
 
 🌟 What I'm interested in: 
  - **Malware and RAT's**
- - **Discord Tools** *(Specifically d.py)*
+ - **Discord Tools** *(discord.py)*
  - **Exploiting**
 
 
