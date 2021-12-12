@@ -10,8 +10,8 @@
  - **Front End Scripting and Databases**
 
 🌟 What I'm interested in: 
- - **<a href="https://github.com/stars/codeuk/lists/malware">Malware</a> and RAT's**
- - **<a href="https://github.com/stars/codeuk/lists/discord">Discord Tools</a>** *(discord.py)*
+ - **Malware and RAT's**
+ - **Discord Tools** *(discord.py)*
  - **Exploiting**
 
 
