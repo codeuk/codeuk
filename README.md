@@ -6,12 +6,12 @@
 [![](https://img.shields.io/badge/Enquiry%20Email-malware@doop.fun-black)](mailto:malware@doop.fun)
 
 💡 What I'm currently working on: 
- - **9SPY - Windows RAT in Python Sockets**
+ - **<a href="https://github.com/codeuk/9spy">9SPY</a> - Windows RAT in Python Sockets**
  - **Front End Scripting and Databases**
 
 🌟 What I'm interested in: 
- - **Malware and RAT's**
- - **Discord Tools** *(discord.py)*
+ - **<a href="https://github.com/stars/codeuk/lists/malware">Malware</a> and RAT's**
+ - **<a href="https://github.com/stars/codeuk/lists/discord">Discord Tools</a>** *(discord.py)*
  - **Exploiting**
 
 
