@@ -7,6 +7,7 @@
 
 💡 What I'm currently working on: 
  - **<a href="https://github.com/codeuk/9spy">9SPY</a> - Windows RAT in Python Sockets**
+ - **<a href="https://github.com/codeuk/TrollWare">TrollWare</a> - Most Advanced Discord Malware & RAT**
  - **Front End Scripting and Databases**
 
 🌟 What I'm interested in: 
