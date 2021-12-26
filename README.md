@@ -1,6 +1,5 @@
 # **Hello! I'm doop ~ @codeuk**
 
-*doop#4043*
 [![](https://img.shields.io/badge/Website-doop.fun-black)](https://doop.fun)
 [![](https://img.shields.io/badge/Personal%20Email-d@doop.fun-black)](mailto:d@doop.fun)
 [![](https://img.shields.io/badge/Enquiry%20Email-malware@doop.fun-black)](mailto:malware@doop.fun)
