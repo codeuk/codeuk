@@ -1,8 +1,7 @@
 # **Hello! I'm doop ~ @codeuk**
 
 [![](https://img.shields.io/badge/Website-doop.fun-black)](https://doop.fun)
-[![](https://img.shields.io/badge/Personal%20Email-d@doop.fun-black)](mailto:d@doop.fun)
-[![](https://img.shields.io/badge/Enquiry%20Email-malware@doop.fun-black)](mailto:malware@doop.fun)
+[![](https://img.shields.io/badge/Email-d@doop.fun-black)](mailto:d@doop.fun)
 
 💡 What I'm currently working on: 
  - **<a href="https://github.com/codeuk/9spy">9SPY</a> - Windows RAT in Python Sockets**
