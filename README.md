@@ -4,9 +4,8 @@
 [![](https://img.shields.io/badge/Email-d@doop.fun-black)](mailto:d@doop.fun)
 
 💡 What I'm currently working on: 
- - **<a href="https://github.com/codeuk/dbsearch">dbsearch</a> - Discord DB Searching Tool**
  - **<a href="https://github.com/codeuk/9spy">9SPY</a> - Windows RAT in Python Sockets**
- - **Front End Scripting and Databases**
+ - **PHP & SQL**
 
 🌟 What I'm interested in: 
  - **Malware and RAT's**
