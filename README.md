@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/Email-d@doop.fun-black)](mailto:d@doop.fun)
 
 💡 What I'm currently working on: 
- - **<a href="https://github.com/codeuk/TrollWare">TrollWare</a> - Fully rewriting TrollWare**
+ - **<a href="https://github.com/codeuk/TrollWare">TrollWare</a> - Rewritten TrollWare Fully**
  - **PHP & SQL**
 
 🌟 What I'm interested in: 
