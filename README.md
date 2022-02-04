@@ -5,7 +5,7 @@
 
 💡 What I'm currently working on: 
  - **<a href="https://github.com/codeuk/TrollWare">TrollWare</a> - Rewritten TrollWare Fully**
- - **PHP & SQL**
+ - **Forensics**
 
 🌟 What I'm interested in: 
  - **Malware and RAT's**
