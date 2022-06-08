@@ -6,7 +6,7 @@
 [![](https://img.shields.io/badge/Email-d@doop.fun-black)](mailto:d@doop.fun)
 
 💡 What I'm currently working on: 
- - **Browser Request Exploitation**
+ - **MalwareConnector (Flask)**
  - **Networking**
 
 🌟 What I'm interested in: 
