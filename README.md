@@ -1,7 +1,7 @@
 # **👋**
-```
---[----->+<]>---.++++++++++++.-----------.+.[--->+<]>--.----------.
-```
+
+**PAGE UPDATE: My TrollWare repository has been 'disabled' by GitHub staff! RIP 80+ STARS**
+
 [![](https://img.shields.io/badge/Website-doop.fun-black)](https://doop.fun)
 [![](https://img.shields.io/badge/Email-d@doop.fun-black)](mailto:d@doop.fun)
 
