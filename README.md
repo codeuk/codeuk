@@ -6,8 +6,8 @@
 [![](https://img.shields.io/badge/Email-d@doop.fun-black)](mailto:d@doop.fun)
 
 💡 What I'm currently working on: 
- - **MalwareConnector (Flask)**
- - **Networking**
+ - **Flask Victim Management Panel with Malware Builder & API**
+ - **Full Stack Web Development**
 
 🌟 What I'm interested in: 
  - **Malware and RAT's**
